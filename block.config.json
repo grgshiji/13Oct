@@ -1,0 +1,21 @@
+{
+  "name": "13Oct",
+  "type": "package",
+  "blockId": "uThg4L_oczmX8tqgIxmpz",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_PackageA_12Oct_fn"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "PackageA_12Oct_fn": {
+      "directory": "PackageA_12Oct_fn"
+    }
+  }
+}
