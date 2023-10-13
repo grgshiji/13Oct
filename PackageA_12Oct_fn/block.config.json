@@ -3,8 +3,8 @@
   "name": "PackageA_12Oct_fn",
   "type": "function",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/13Oct.git",
+    "ssh": "git@github.com:grgshiji/13Oct.git",
     "branch": "block_PackageA_12Oct_fn"
   },
   "parentBlockIDs": [
